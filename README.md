@@ -16,6 +16,6 @@
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Profile Views
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/CUMOON/lord)
+![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mandofskii)
 ### Top Languages
 ![op](https://github-readme-stats.vercel.app/api/top-langs/?username=mandofskii&theme=radical&layout=compact&langs_count=6&hide_border=true)
